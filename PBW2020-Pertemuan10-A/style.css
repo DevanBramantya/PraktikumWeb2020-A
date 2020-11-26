@@ -1,0 +1,14 @@
+.data{
+    float:left;
+    margin:auto 10px 10px auto;
+    background:#adf5fa;
+    width:18%;
+    padding:10px;
+    border-radius:10px;
+}
+.input{
+    background:#adf5fa;
+    width:18%;
+    padding:10px;
+    border-radius:10px;
+}
